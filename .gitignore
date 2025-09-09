@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.log
+*.tmp
+
+# Datos locales
+data/input/
+data/output/
+
+# Configuración local
+*.env
